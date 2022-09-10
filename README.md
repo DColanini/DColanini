@@ -1,16 +1,15 @@
-### Hi there 👋
+### ♠️ Sobre mim ♦️
+ 
+``` js
+   // Eu usei "const" porque estou em constante evolução
+   const Eu = {
+       Habilidades: "Testador de penetração, desenvolvedor back-end",
+        Main_Langs: "Go, ShellScript, Python",
+      Casual_Langs: "C, C++",
+         Web_Langs: "Javascript, PHP, SQL",
+          Serviços: "Apache",
+        Tecnologia: "Git, Docker, NodeJs",
+                SO: "Gentoo",
+    };
 
-<!--
-**DColanini/DColanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
